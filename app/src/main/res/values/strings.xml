@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreeRequests</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_get_data">Get Data</string>
+    <string name="action_clear_data">Clear Cache</string>
+    <string name="of_total_data_will_be_shown">lines out of total data available is being shown</string>
+    <string name="unauthorized_401">Network Error: Authorization failed; Status code : 410</string>
+</resources>
